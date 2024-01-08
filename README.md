@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nour Sbaoulji</h1>
 <h3 align="center">A passionate Software Engineering Student</h3>
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nour85178&label=Profile%20views%20for%20today&color=0e75b6&style=flat" alt="nour85178" /> </p>
 

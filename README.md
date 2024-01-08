@@ -5,7 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nour85178" alt="nour85178" /></a> </p>
 
-- 🔭 I’m currently a passionate [Software Engineering Student at](https://esprit.tn/)
+- 🎓 I’m currently a passionate Software Engineering Student at [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
+  
+- 🌱 I’m currently looking for End of studies internship
+  
+- 👯 I’m looking to collaborate on new projects
+
+- 📫 How to reach me nour.sbaoulji@ieee.org
+
+💎 My Values :
+- 💡 Mindset of Learning ,Curiosity & Digging up
+- 🙌 Teamwork & Communication & Leadership
+- 🙋‍♂️ Autonomous & Flexible
+- 🕺 & More to discover ...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,55 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nour85178&show_icons=true&locale=en" alt="nour85178" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nour85178&" alt="nour85178" /></p>
-
-### Hi there 👋
- Hey there,I'm Nour Sbaoulji
-
-
-     
-
-Visitors :
-
-
-  
-A passionate Web developer from Tunisia
-🎓 I’m currently a Software Engineering Student at ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies
-
-🌱 I’m currently looking for End of studies internship
-
-👯 I’m looking to collaborate on new projects
-
-📫 How to reach me nour.sbaoulji@ieee.org
-
-Anurag's GitHub stats
-
-💎 My Values
-💡 Mindset of Learning ,Curiosity & Digging up
-🙌 Teamwork & Communication & Leadership
-🙋‍♂️ Autonomous
-🕺 & More to discover ...
-
-Connect with me:
-nour85178 arijhadji Arij#9960
-
-Languages ,Tools and DB:
-
-
-Ashutosh's github activity graph
-
-Stats:
-  
-<!--
-**nour85178/nour85178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

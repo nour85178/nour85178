@@ -6,6 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nour85178&label=Profile%20views%20for%20today&color=0e75b6&style=flat" alt="nour85178" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nour85178" alt="nour85178" /></a> </p>
 
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nour85178&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Profile Trophies" />
+  </a>
+</p>
+
 - 🎓 I’m currently a passionate Software Engineering Student at [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
   
 - 🌱 I’m currently looking for End of studies internship
